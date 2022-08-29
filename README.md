@@ -1,5 +1,7 @@
 ToDoListwithDjango_메모장 : python django framework를 이용한 메모할 수 있는 프로그램
+
 bookStore : python django framework를 이용한 책 찾는 프로그램 / 책의 이름, 가격, 저자 를 내가 입력하고 검색하여 찾을 수 있다
+
 home_게시판 : java spring framewor를 사용한 게시판 / 예쁘다
 myhome : 위와 같은건데 한번 더만들었다 / 둘 중 하나는 오류가 날것
 polls_선거 : python django framework크를 사용한 선거 프로그램 / 투표를 등록하고 결과를 추출하는 간단한 프로젝트
